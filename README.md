@@ -8,11 +8,13 @@ arXiv coming soon.
 
 BibTeX coming soon.
 
-## Details
+## FAQs
 
 **Where do the sentences come from?** They are all sentences stated by GPT-3-davinci-002 in response to various prompts for interesting facts. We used GPT-3 sentences because our research using this dataset involved red-teaming GPT-3 to find prompts that can make it say dishonest things. 
 
 **Where do the labels come from?** Each example has two labels from human knowledge workers. This data was collected in partnership with [SurgeAI](https://www.surgehq.ai/).
+
+**How often to the human labels agree?** The two human labels agree on 12,106 out of 20,000 examples. 
 
 **What is the importance of the 'neither' label? Why not just common-knowledge-true/false?** Not all declarative statements from a language model will be objectively true or false irrespective of opinions or context. 
 

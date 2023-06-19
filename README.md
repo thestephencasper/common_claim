@@ -4,9 +4,18 @@ A dataset of 20,000 boolean statements, each labeled by two humans as *common-kn
 
 This data was collected for the paper Explore, Establish, Exploit: Red Teaming Language Models from Scratch by the MIT Algorithmic Alignment Group.  Authors: Stephen Casper ([scasper@mit.edu](scasper@mit.edu)), Jason Lin, Joe Kwon, Gatlen Culp, and Dylan Hadfield-Menell.  
 
-arXiv coming soon.
+Read the paper on arXiv: [Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://arxiv.org/abs/2306.09442)
 
-BibTeX coming soon.
+```
+@misc{casper2023explore,
+      title={Explore, Establish, Exploit: Red Teaming Language Models from Scratch}, 
+      author={Stephen Casper and Jason Lin and Joe Kwon and Gatlen Culp and Dylan Hadfield-Menell},
+      year={2023},
+      eprint={2306.09442},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ## FAQs
 

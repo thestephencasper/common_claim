@@ -25,7 +25,7 @@ Read the paper on arXiv: [Explore, Establish, Exploit: Red Teaming Language Mode
 
 **How often do the human labels agree?** The two human labels agree on 12,106 out of 20,000 examples. 
 
-**Are some examples mislabeled?** We find ourselves disagreeing with the labels sometimes. In particular, we think that some human annotators labeled many things as common-knowledge true that we do not find obvious. However, (1) we find that we more consistently agree with labels when we filter for examples for which there is an agreement between both labels and (2) we find that we more consistently agree when the annotators label something as common-knowledge-false. 
+**Are some examples mislabeled?** We find ourselves disagreeing with the labels sometimes. In particular, we think that some human annotators labeled many things as common-knowledge-true that we do not find obvious. However, (1) we find that we more consistently agree with labels when we filter for examples for which there is an agreement between both labels and (2) we find that we more consistently agree when the annotators label something as common-knowledge-false. 
 
 **What is the importance of the 'neither' label? Why not just common-knowledge-true/false?** Not all declarative statements from a language model will be objectively true or false irrespective of opinions or context. 
 
